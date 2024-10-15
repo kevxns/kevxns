@@ -1,4 +1,4 @@
-<h1>Olá, eu me chamo Keven 👋</h1>
+<h1>Olá, me chamo Keven 👋</h1>
 
 <p>Sou um desenvolvedor back-end Java apaixonado por construir soluções escaláveis e eficientes. Atualmente, sou estudante de Desenvolvimento de Sistemas no SENAI-BA e estou em busca de uma oportunidade de estágio ou vaga júnior para aplicar meus conhecimentos e continuar aprendendo no mundo da tecnologia.</p>
 
