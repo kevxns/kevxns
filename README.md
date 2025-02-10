@@ -1,21 +1,40 @@
-<h1>Olá, me chamo Keven 👋</h1>
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-<p>Sou um desenvolvedor back-end Java apaixonado por construir soluções escaláveis e eficientes. Atualmente, sou estudante de Desenvolvimento de Sistemas no SENAI-BA e estou em busca de uma oportunidade de estágio ou vaga júnior para aplicar meus conhecimentos e continuar aprendendo no mundo da tecnologia.</p>
+###
 
-<h2> 🚀 Sobre Mim</h2>
+<p align="left">Me chamo Keven, e sou um desenvolvedor back-end.</p>
 
-<p>Tenho uma sólida formação acadêmica, com foco em programação orientada a objetos, desenvolvimento de APIs e integração de sistemas. Durante minha trajetória, desenvolvi habilidades em Java, Spring Framework e no gerenciamento de bancos de dados.
+###
 
-Meu objetivo é continuar me aprimorando e crescer profissionalmente em um ambiente desafiador, contribuindo com meu aprendizado e adquirindo experiência prática em projetos reais.</p>
+<h2 align="left">Sobre mim</h2>
 
-<h2> 🛠️ Minhas Skills</h2>
+###
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height= "60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height= "60"/>
+<p align="left">Sou um desenvolvedor back-end especializado na linguagem Java, além de ter experiência com Springboot, MySQL, MongoDB, desenvolvimento de APIs. Atualmente estou aprimorando as minhas habilidades criando soluções eficientes e escaláveis.</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<div align= "center">
-<img src= "https://github-readme-stats.vercel.app/api?username=keventhecreator&show_icons=true&theme=tokyonight&card_width=300&"height=200">
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevenTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevenTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
