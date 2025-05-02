@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keven</h1>
 <h3 align="left">Sobre</h3>
-<p align="center">Sou um desenvolvedor back-end.</p>
+<p align="left">Sou um desenvolvedor back-end.</p>
 <p align="left">
 </p>
 
