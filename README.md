@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Keven</h1>
-<h2 align="left">About</h2>
+<h2 align="left">About Me</h2>
 <p align="left">Sou desenvolvedor backend com foco em soluções robustas e escaláveis utilizando Java e o ecossistema Spring (Spring Boot, Spring Data, etc.). Tenho experiência sólida no desenvolvimento de APIs RESTful, modelagem de banco de dados relacional com PostgreSQL, versionamento de código com Git e integração de sistemas backend com boas práticas de clean code, testes e segurança.</p>
 <p align="left">
 </p>
