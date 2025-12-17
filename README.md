@@ -1,14 +1,18 @@
-<h1 align="left">Keven Santos</h1>
-<h2 align="left">Sobre mim</h2>
-<p align="left">Sou desenvolvedor backend com foco em Java e no ecossistema Spring (Spring Boot, Spring Data, Spring Security, entre outros). Tenho experiência sólida na construção de APIs RESTful, modelagem de bancos de de dados relacionais (PostgreSQL) e integração de sistemas, sempre buscando entregar soluções robustas, seguras e escaláveis.</p>
-<p align="left">
-</p>
+# 💫 About Me:
+Olá! Meu nome é Keven Santos e sou um desenvolvedor Back-end apaixonado por tecnologia e aprendizado contínuo. Tenho interesse em construir aplicações robustas, escaláveis e bem estruturadas, sempre aplicando boas práticas de desenvolvimento.<br><br>Atualmente, estudo e pratico desenvolvimento, trabalhando com criação de APIs e aplicações, integração com bancos de dados e versionamento de código. Gosto de aprender com desafios reais, feedbacks e colaborar com outros desenvolvedores para evoluir constantemente.
 
-<h2 align="left">Linguagens & Ferramentas</h2>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>          
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>      
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keventhecreator&show_icons=true&locale=en&" alt="keventhecreator" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/keven-s-santos) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keventhecreator&show_icons=true&locale=en" alt="keventhecreator" /></p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KevenTheCreator&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KevenTheCreator&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevenTheCreator&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KevenTheCreator&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
