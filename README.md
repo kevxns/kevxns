@@ -11,9 +11,9 @@ Olá! Meu nome é Keven Santos e sou um desenvolvedor Back-end apaixonado por te
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img width="490"
+  <img width="370"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevenTheCreator&show_icons=true&theme=dark" />
-  <img width="400"
+  <img width="300"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevenTheCreator&layout=compact&theme=dark" />
 </p>
 
