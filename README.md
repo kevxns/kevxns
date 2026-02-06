@@ -16,8 +16,3 @@ Olá! Meu nome é Keven Santos e sou um desenvolvedor Back-end apaixonado por te
   <img width="300"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevxns&layout=compact&theme=dark" />
 </p>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=kevxns&icon=0&color=1)](https://visitcount.itsvg.in)
