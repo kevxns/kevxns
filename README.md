@@ -1,18 +1,48 @@
-# 💫 About Me:
-Olá! Meu nome é Keven Santos e sou um desenvolvedor Back-end apaixonado por tecnologia e aprendizado contínuo. Tenho interesse em construir aplicações robustas, escaláveis e bem estruturadas, sempre aplicando boas práticas de desenvolvimento.<br><br>Atualmente, estudo e pratico desenvolvimento, trabalhando com criação de APIs e aplicações, integração com bancos de dados e versionamento de código. Gosto de aprender com desafios reais, feedbacks e colaborar com outros desenvolvedores para evoluir constantemente.
+<div align="center">
+  <p align="center">
+    <samp>
+      [<a href="mailto:keven.santos1@outlook.com" target="_blank">e-mail</a>]
+      [<a href="https://www.linkedin.com/in/keven-s-santos" target="_blank">linkedin</a>]
+    </samp>
+  </p>
+<h2></h2>
 
+<div align="left"> 
+  <samp>/about</samp>
+  <div>
+    <samp>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keven-s-santos) 
+- Software Developer.
+- Currently studying <b>Java</b> & <b>Springboot</b>.
+- Dedicated to deepening my understanding of software architecture and testing.
+- I also develop personal projects aligned with real-world software market demands.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    </samp>
+  </div>
+</div>
 
-# 📊 Stats:
+<h2></h2>
 
-<p align="center">
+<div align="left"> 
+  <samp>/technologies</samp>
+
+  <p align="left">
+    <samp>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+      <img src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </samp>
+  </p>
+</div>
+<br>
+</div>
+
+<!-- <p align="center">
   <img width="370"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevxns&show_icons=true&theme=dark" />
-  <img width="300"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevxns&layout=compact&theme=dark" />
-</p>
+</p> -->
