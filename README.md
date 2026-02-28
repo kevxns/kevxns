@@ -13,9 +13,9 @@
     <samp>
 
 - Software Developer.
-- Currently studying <b>Java</b> & <b>Springboot</b>.
+- Currently studying <b>Microservices</b>
 - Dedicated to deepening my understanding of software architecture and testing.
-- I also develop personal projects aligned with real-world software market demands.
+- I also develop projects aligned with real-world software market demands.
 
     </samp>
   </div>
@@ -26,16 +26,18 @@
 <div align="left"> 
   <samp>/technologies</samp>
 
+
+
   <p align="left">
     <samp>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
-      <img src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      [<a href="#" target="_self">Java</a>]
+      [<a href="#" target="_self">Springboot</a>]
+      [<a href="#" target="_self">Typescript</a>]
+      [<a href="#" target="_self">Javascript</a>]
+      [<a href="#" target="_self">Angular</a>]
+      [<a href="#" target="_self">Tailwind CSS</a>]
+      [<a href="#" target="_self">PostgreSQL</a>]
+      [<a href="#" target="_self">Docker</a>]
     </samp>
   </p>
 </div>
